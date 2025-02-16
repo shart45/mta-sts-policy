@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+mx: soldwithhart.com
+mx: *.soldwithhart.com
+max_age: 86400
